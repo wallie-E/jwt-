@@ -1,5 +1,9 @@
 # 学习 jwt 的案例
 
-1. 需要安装的包： express express-jwt jsonwebtoken body-parser
+1. 安装依赖包
+`npm i express express-jwt jsonwebtoken body-parser`
+ 
+2. 启动项目
+`node app.js`
 
-2. 使用 postman 来调试接口即可
+3. 使用 postman 来调试接口即可
